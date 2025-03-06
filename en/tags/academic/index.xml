@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://hovik228.github.io/en/tags/academic/</link>
+      <atom:link href="https://hovik228.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hovik228.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://hovik228.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hovik228.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hovik228.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя выдалась насыщенной и продуктивной.&lt;br&gt;
+✅ Освоил новые темы в университете, особенно заинтересовало [название темы].&lt;br&gt;
+✅ Разбирался с [название технологии или предмета] — оказалось сложнее, чем ожидал, но интересно.&lt;br&gt;
+✅ Начал работать над [проект/идея], что дает новые вызовы и перспективы.&lt;/p&gt;
+&lt;p&gt;Постепенно привыкаю к студенческой жизни, учусь совмещать учебу и личные проекты. Как прошла ваша неделя?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://hovik228.github.io/en/publication/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hovik228.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-git&#34;&gt;Управление версиями. Git&lt;/h2&gt;
+&lt;p&gt;В мире разработки управление версиями — один из ключевых аспектов работы с кодом. Оно позволяет отслеживать изменения, управлять различными версиями проекта и работать в команде без конфликтов. Одним из наиболее популярных инструментов для этого является Git.&lt;/p&gt;
+&lt;h3 id=&#34;почему-git&#34;&gt;Почему Git?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Децентрализованность&lt;/strong&gt;. Каждый разработчик имеет полный репозиторий со всей историей изменений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость&lt;/strong&gt;. Можно создавать ветки для экспериментов, исправления багов и внедрения новых фич.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Эффективность&lt;/strong&gt;. Система хранения данных позволяет экономить место и быстро переключаться между версиями.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Безопасность&lt;/strong&gt;. Все изменения хранятся в защищенной структуре, и каждая версия может быть восстановлена.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;основные-концепции-git&#34;&gt;Основные концепции Git&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Репозиторий (repository)&lt;/strong&gt; – место, где хранится код и его история.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Коммиты (commits)&lt;/strong&gt; – зафиксированные изменения в проекте.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветки (branches)&lt;/strong&gt; – параллельные версии разработки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Слияние (merge)&lt;/strong&gt; – объединение изменений из разных веток.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Удаленные репозитории (remote repositories)&lt;/strong&gt; – внешние хранилища кода (например, GitHub, GitLab).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;git-в-командной-работе&#34;&gt;Git в командной работе&lt;/h3&gt;
+&lt;p&gt;Git — мощный инструмент для совместной работы. Он позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разрабатывать новые функции без риска поломки основной версии кода.&lt;/li&gt;
+&lt;li&gt;Проверять и рецензировать изменения перед их добавлением в основной код.&lt;/li&gt;
+&lt;li&gt;Объединять работу нескольких разработчиков без потери данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Освоение Git — важный навык для каждого программиста. Он упрощает работу, повышает качество кода и делает разработку более организованной.&lt;br&gt;
+Какой ваш опыт работы с Git?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://hovik228.github.io/en/post/</link>
+      <atom:link href="https://hovik228.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hovik228.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://hovik228.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hovik228.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hovik228.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя выдалась насыщенной и продуктивной.&lt;br&gt;
+✅ Освоил новые темы в университете, особенно заинтересовало [название темы].&lt;br&gt;
+✅ Разбирался с [название технологии или предмета] — оказалось сложнее, чем ожидал, но интересно.&lt;br&gt;
+✅ Начал работать над [проект/идея], что дает новые вызовы и перспективы.&lt;/p&gt;
+&lt;p&gt;Постепенно привыкаю к студенческой жизни, учусь совмещать учебу и личные проекты. Как прошла ваша неделя?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
